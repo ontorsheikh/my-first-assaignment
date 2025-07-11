@@ -20,7 +20,7 @@ li{
     color:#FFFFFF;
     background-color: #4E47FF;
     border: none;
-    border-radius: 5px;
+    border-radius: 5margin:20px 2px;
     padding: 10px;
 }
 .btn-bg:hover{
@@ -39,6 +39,7 @@ nav{
     margin:0 auto;
     margin:20px 20px 0px 20px;
     max-width: 1270px;
+
     background-image: url('../Assets/Hero-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,10 +70,60 @@ nav{
     
     margin:20px 20px 0px 20px;
     max-width: 1270px;
+    
 }
 .Action-two{
     color: #252432;
 }
 .Action-three{
     color: #403f51 ;
+}
+.img{
+    border-radius: 30px;
+}
+/*users*/
+.head{
+    color: #252432;
+    text-align: center;
+
+}
+.users{
+    display: flex;
+    justify-content: space-around;
+}
+.users-two{
+    color: #4E47FF;
+    font-size: 36px;
+    margin: 0;
+}
+
+
+
+.head {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.users {
+  display: flex;
+  justify-content:space-around;
+  
+  flex-wrap: wrap;
+  
+}
+
+
+.users-three {
+  font-size: 16px;
+  color: #555;
+  margin: 5px 0 0;
+}
+.users-container{
+    background-color: #e2e1fa;
+margin:20px 20px 0px 20px;
+    max-width: 1270px;
+    padding: 10px 30px 20px 30px;
+    border:none;
+    border-radius: 15px;
 }
