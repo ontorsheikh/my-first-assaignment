@@ -301,6 +301,10 @@ button {
 footer{
   border: 1px solid white;
   box-shadow:  white;
+  margin-left: 50pxpx;
+  margin-right: 50px;
+  background-color: #fcfdfe;
+  padding: 20px;
 }
 
 
