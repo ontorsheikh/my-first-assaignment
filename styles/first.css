@@ -20,7 +20,8 @@ li{
     color:#FFFFFF;
     background-color: #4E47FF;
     border: none;
-    border-radius: 5margin:20px 2px;
+    border-radius:10px;
+
     padding: 10px;
 }
 .btn-bg:hover{
